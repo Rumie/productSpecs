@@ -1,4 +1,3 @@
-Product Documentation : Product Specification Sheet - Rumie Learn  
 
 1.  [Product Documentation](index.html)
 
