@@ -15,51 +15,51 @@ microlearning experiences named Bytes for Learners through Local Area Network.
 
 **Specs**
 
-It is Web Application serving Byte Sized Content. The platform is built using 
---> HTML 
+It is Web Application serving Byte Sized Content. The platform is built using </br> 
+--> HTML </br>
 --> JavaScript 
  
 
 **Who can access this platform?**
 
-In simple words, Anyone around the globe can access Rumie Learn from this YRL
+In simple words, Anyone around the globe can access Rumie Learn from this URL
 https://learn.rumie.org
 
-The user just needs to have access to Local Are Wireless Technology (Wi-Fi) to serve 
+The user just needs to have access to Local Area Wireless Technology (Wi-Fi) to serve 
 the platform on any web browser on any device. 
 
 **Minimum Requirments to access**
 
 Internet Connectivity - Having a medium to strong Wi-Fi internet connection 
-Broser Compatibility - minimum versions for broswers are listed below 
-Internet Explorer - 11
-Edge - 81
-Firefox - 76
-Safari - 12, 13
-Opera - 68
-Chrome - 81
+Broser Compatibility - minimum versions for broswers are listed below </br>
+Internet Explorer - 11 </br>
+Edge - 81 </br>
+Firefox - 76 </br>
+Safari - 12, 13 </br>
+Opera - 68 </br>
+Chrome - 81 </br>
 
 **Serving Infrastructure**
 
 Amazon Web Services 
-Availaibility Zone --> us-east-1 
+Availaibility Zone --> us-east-1 </br>
 Services Used --> Amazon CloudFront + Amazon EC2 
 
 Amazon CloudFront --> Is a fast content delivery network (CDN) service that securely 
 delivers data, videos, applications, and APIs to customers globally. CloudFront works 
 seamlessly with services including Amazon S3, Elastic Load Balancing or Amazon EC2
 
-Neo4j Graph Database
+Neo4j Graph Database </br>
 MySQL Databse 
 
 **Byte Specs**
 
-Can include image(png, video average, youtube embed, audio embed) 
-Average size of Byte (mb) --> 18.3 Mb (ranges from 3 Mb to 45 Mb)
-Average size of text content --> 13.4 Mb
-Average size of Media content --> 
-Average Byte loading time --> 2.29 s
-Estimated minimal bandwidth needed is --> ~7.9 Mb/s
+Can include image(png, video average, youtube embed, audio embed) </br>
+Average size of Byte (mb) --> 18.3 Mb (ranges from 3 Mb to 45 Mb) </br>
+Average size of text content --> 13.4 Mb </br>
+Average size of Media content --> </br>
+Average Byte loading time --> 2.29 s </br>
+Estimated minimal bandwidth needed is --> ~7.9 Mb/s </br>
 
 **Integration Points**
 
