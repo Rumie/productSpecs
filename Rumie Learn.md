@@ -73,7 +73,7 @@ It is Web Application serving Byte Sized Content. The platform is built using </
 
 **Who can access this platform?**
 
-In simple words, Anyone around the globe can access Rumie Learn from this URL
+Anyone around the globe can access Rumie Learn from this URL
 https://learn.rumie.org
 
 The user just needs to have access to Local Area Wireless Technology (Wi-Fi) to serve 
