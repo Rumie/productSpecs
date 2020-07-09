@@ -14,13 +14,13 @@ The Rumie Platform reflects Rumie’s newest solution for partners, expanding be
 
 This solution will continue to bridge the learning and skills gap for learners around the world. 
 
-Rumie platform software includes three products: Build, Connect and Learn, that form an ecosystem that serve one main goal: to empower the best e-learning experience to learners.
+Rumie platform software includes three products: Build, Connect and Learn, that form an ecosystem which serves one main goal: to empower the best e-learning experience to learners.
 
 **Product Summary:**
 
 Rumie-Learn is a learning platform that is free to access, and offers interactive microlearning experiences named Bytes that Learners can access through an internet connection, with any device that has web browsing capabilities. It provides the learners with dynamically curated Byte learning, which is focused on learning experiences of 10 minutes or less, chained together into individual learning paths.
 
-Bytes are offered and distributed among different 21st Century Skills categories. These modules include embedded media options such as images, icons, Youtube videos, and audio to make the learning experience for the learners more exciting and provide high-impact, organization/topic-specific visuals to reinforce ideas. Every Byte serves to provide the learner a learning outcome from every experience. Every Byte includes one or more, multiple choice quiz, to assess and measure learning. The learners can also provide and submit direct feedback for the Byte they experienced.
+Bytes are offered and distributed among different 21st Century Skills categories. These modules include embedded media options such as images, icons, Youtube videos, and audio to make the learning experience for learners more exciting and provide high-impact, organization/topic-specific visuals to reinforce ideas. Every Byte serves to provide the learner a learning outcome from every experience. Every Byte includes one or more multiple choice quizzes to assess and measure learning. The learners can also provide and submit direct feedback for the Byte they experienced.
 
 **Product Features - Soft Attributes:**
 
@@ -32,11 +32,11 @@ Bytes are offered and distributed among different 21st Century Skills categories
 **Product Features -  Hard Attributes:**
 
   * Numerous Categories/ Topics/ Themes
-  * Trending Bytes:Providing the most demanded learning content
+  * Trending Bytes: Providing the most demanded learning content
   * Recommended Bytes
   * View History: Bytes visited so far
-  * Favourites:Mark Favourite Bytes
-  * Access:One or multiple Bytes of different Categories/ Topics/ Themes
+  * Favourites: Mark Favourite Bytes
+  * Access: One or multiple Bytes of different Categories/ Topics/ Themes
   * Interactive Quizzes and media options available for every single Byte being served
   * Provide Feedback for a recent Byte User Accessed
   * Set your own Preferences for Themes/ Data/ Accessibility Feature
@@ -115,7 +115,9 @@ Rumie-Learn collects learner data strictly for the recognition and storing of By
 
 We assign a unique token to every learner and cookie the learner with that token. That token is representative of the learner in all of our data, and it is not shared externally beyond strictly to fulfill the aggregation and insights requirements of our systems.
 
-Our learner data is processed and aggregated strictly for the improvement of the learner experience, both individually and in aggregate. We do not share this data with any 3rd parties, and we do not identify learners outside of the scope of their individual experience.Policies:
+Our learner data is processed and aggregated strictly for the improvement of the learner experience, both individually and in aggregate. We do not share this data with any 3rd parties, and we do not identify learners outside of the scope of their individual experience. 
+
+**Policies:**
 
 **Cookie Policy:**
 
