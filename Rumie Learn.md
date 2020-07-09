@@ -57,7 +57,7 @@ Learner interacts with:
  * HTML 5
  * Javascript
  * Video/audio rendering
- * Internet Connectivity 
+ * Internet connectivity 
 
 **Who can access this platform?**
 
