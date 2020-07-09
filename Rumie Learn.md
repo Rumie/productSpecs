@@ -18,7 +18,7 @@ Rumie platform software includes three products: Build, Connect and Learn, that 
 
 **Product Summary:**
 
-Rumie-Learn is a learning platform that is free to access, and offers interactive microlearning experiences named Bytes that Learners can access through an internet connection, with any device that has web browsing capabilities. It provides the learners with dynamically curated Byte earning, which is focused on learning experiences of 10 minutes or less, chained together into individual learning paths.
+Rumie-Learn is a learning platform that is free to access, and offers interactive microlearning experiences named Bytes that Learners can access through an internet connection, with any device that has web browsing capabilities. It provides the learners with dynamically curated Byte learning, which is focused on learning experiences of 10 minutes or less, chained together into individual learning paths.
 
 Bytes are offered and distributed among different 21st Century Skills categories. These modules include embedded media options such as images, icons, Youtube videos, and audio to make the learning experience for the learners more exciting and provide high-impact, organization/topic-specific visuals to reinforce ideas. Every Byte serves to provide the learner a learning outcome from every experience. Every Byte includes one or more, multiple choice quiz, to assess and measure learning. The learners can also provide and submit direct feedback for the Byte they experienced.
 
