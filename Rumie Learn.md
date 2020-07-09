@@ -17,7 +17,7 @@ This solution will continue to bridge the learning and skills gap for our partne
 Rumie platform software includes three products that are linked together to serve one main goal: to empower Rumie partners in bringing the best e-learning experience to their learners. One of which is Rumie Learn. 
 
 
-**Product Description**
+**Product Summary**
 
 Rumie Learn is a Learning platform that is free to access, and offers interactive 
 microlearning experiences named Bytes for Learners through Local Area Network. The platform 
@@ -29,6 +29,12 @@ These Bite-Sized modules include different media option such as Images, Youtube 
 learning experience for the User more exiting and provide high-impact, organization/topic-specific visuals to reinforce ideas. 
 Every Byte that is created to serve one learning outcome. Every single Byte can include 
 one or multiple Quizes to make the user experience more interactive. The User's can also provide and submit feedback for the Byte they accessed. 
+
+**Bisuness Case**
+
+eLearning has been around since the 1990s when the internet started becoming popular. Over the years, schools, trainers, and businesses realized the benefits of leveraging technology for training and education, allowing flexibility and reduced costs. As technology continued to evolve at exponential rates, learners, both young and old, became overwhelmed with information overload, the focus was no longer on the transfer of knowledge but turned to how to better achieve learning objectives. The use of animations, multimedia, on-screen interactions started to become more important, and also, learning concepts such as using a modular approach. </br> 
+
+One of the main reasons why bite-sized learning is becoming increasingly important is due to the changing ways people learn and the amount of information they have access to. Attention spans are getting shorter and learners expect more from training. Learners no longer want to just gain knowledge, they want to be engaged, entertained, and able to apply what they learn immediately. They want to see improvements and be able to quantify their progress. They want to do so anytime, anywhere, on any device. They want to be in control of their learning journeys and yet be guided in the right direction.
 
 
 **Platform Features - Soft Attributes**
@@ -56,6 +62,7 @@ one or multiple Quizes to make the user experience more interactive. The User's 
 --> Upskilling </br> 
 --> Awareness of Categories </br> 
 --> Better engagement </br> 
+
 
 **Specs**
 
@@ -101,7 +108,7 @@ MySQL Databse
 Can include image(png, video average, youtube embed, audio embed) </br>
 Average size of Byte (mb) --> 18.3 Mb (ranges from 3 Mb to 45 Mb) </br>
 Average size of text content --> 13.4 Mb </br>
-Average size of Media content --> </br>
+Average size of Media content --> 10 Mb </br>
 Average Byte loading time --> 2.29 s </br>
 Estimated minimal bandwidth needed is --> ~7.9 Mb/s </br>
 
@@ -111,7 +118,7 @@ URL --> https://learn.rumie.org
 
 **Content Approval Process**
 
-All Bytes when created on Rumie Build are Rumie carefully reviews and moderates all content for learning suitability
+Rumie carefully reviews and moderates all content for learning suitability
 
 ** We also do provide an optional curating Feature for Organizations to approve Bytes before 
 they get to Rumie approval
