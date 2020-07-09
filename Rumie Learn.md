@@ -37,14 +37,14 @@ eLearning has been around since the 1990s when the internet started becoming pop
 One of the main reasons why bite-sized learning is becoming increasingly important is due to the changing ways people learn and the amount of information they have access to. Attention spans are getting shorter and learners expect more from training. Learners no longer want to just gain knowledge, they want to be engaged, entertained, and able to apply what they learn immediately. They want to see improvements and be able to quantify their progress. They want to do so anytime, anywhere, on any device. They want to be in control of their learning journeys and yet be guided in the right direction.
 
 
-**Platform Features - Soft Attributes**
+**Product Features - Soft Attributes**
 
 --> Content Repository </br>
 --> Microlearning Template </br>
 --> Learning Framework </br>
 --> Captive Portal </br>
 
-**In-built Product Features -  Hard Attributes**
+**Product Features -  Hard Attributes**
 
 --> Numerous Categories/ Topics/ Themes </br>
 --> Trending Bytes --> Providing the most demanded learning content </br>
