@@ -121,7 +121,7 @@ URL --> https://learn.rumie.org
 Rumie carefully reviews and moderates all content for learning suitability
 
 ** We also do provide an optional curating Feature for Organizations to approve Bytes before 
-they get to Rumie approval
+they get to Rumie for approval
 
 **Security**
 
