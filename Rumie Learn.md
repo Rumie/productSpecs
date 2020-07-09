@@ -50,8 +50,12 @@ one or multiple Quizes to make the user experience more interactive. The User's 
 --> Provide Feedback for a recent Byte User Accessed </br> 
 --> Set your own Preferences for Themes/ Data/ Accesibility Feature </br>
 
+**Outcomes**
 
-
+--> Acquisition of Knowlegde </br>
+--> Upskilling </br> 
+--> Awareness of Categories </br> 
+--> Better engagement </br> 
 
 **Specs**
 
@@ -72,12 +76,12 @@ the platform on any web browser on any device.
 
 Internet Connectivity - Having a medium to strong Wi-Fi internet connection 
 Broser Compatibility - minimum versions for broswers are listed below </br>
-Internet Explorer - 11 </br>
-Edge - 81 </br>
-Firefox - 76 </br>
-Safari - 12, 13 </br>
-Opera - 68 </br>
-Chrome - 81 </br>
+--> Internet Explorer - 11 </br>
+--> Edge - 81 </br>
+--> Firefox - 76 </br>
+--> Safari - 12, 13 </br>
+--> Opera - 68 </br>
+--> Chrome - 81 </br>
 
 **Serving Infrastructure**
 
@@ -107,10 +111,10 @@ URL --> https://learn.rumie.org
 
 **Content Approval Process**
 
-Rumie carefully reviews and moderates all content for learning suitability
+All Bytes when created on Rumie Build are Rumie carefully reviews and moderates all content for learning suitability
 
-Organization approval process for Bytes (allows Organizations to approve Bytes before 
-they get to Rumie approval)
+** We also do provide an optional curating Feature for Organizations to approve Bytes before 
+they get to Rumie approval
 
 **Security**
 
