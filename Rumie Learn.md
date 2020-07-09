@@ -10,7 +10,7 @@ This document will provide you with details on Rumie-Learn [https://learn.rumie.
 
 **Introduction:** 
 
-The Rumie Platform reflects Rumie’s newest solution for partners, expanding beyond traditional Rumie tablets to more versatile technology options that bring improved functionality to multiple devices, computers, laptops, desktops, tablets, and smartphones.
+The Rumie Platform reflects Rumie’s newest solution for partners, expanding beyond traditional Rumie tablets to more versatile technology options that bring improved functionality to multiple devices such as computers, laptops, desktops, tablets, and smartphones.
 
 This solution will continue to bridge the learning and skills gap for learners around the world. 
 
