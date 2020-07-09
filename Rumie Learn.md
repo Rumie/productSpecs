@@ -80,7 +80,7 @@ Internet Connectivity - Having a medium to strong Wi-Fi internet connection Brow
 
 Amazon Web Services Availability Zone:us-east-1
 
-**Services Used**
+**Services Used:**
 
 https://stackshare.io/the-rumie-initiative/learn
 
