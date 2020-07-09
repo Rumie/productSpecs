@@ -33,10 +33,10 @@ Bytes are offered and distributed among different 21st Century Skills categories
 
   * Numerous Categories/ Topics/ Themes
   * Trending Bytes: Providing the most demanded learning content
-  * Recommended Bytes
+  * Recommended Bytes: Uniquely suggested bytes as per previous interaction on the platform 
   * View History: Bytes visited so far
   * Favourites: Mark Favourite Bytes
-  * Access: One or multiple Bytes of different Categories/ Topics/ Themes
+  * Accessing Bytes: One or multiple Bytes of different Categories/ Topics/ Themes
   * Interactive Quizzes and media options available for every single Byte being served
   * Provide Feedback for a recent Byte User Accessed
   * Set your own Preferences for Themes/ Data/ Accessibility Feature
@@ -52,12 +52,12 @@ Bytes are offered and distributed among different 21st Century Skills categories
 
 Rumie-learn  is a Web Application serving microlearning experiences named bytes. It can be accessed by users through any device that has browsing capabilities and with an active internet connection. 
 
-The platform is built using:
+Learner interacts with:
 
- * HTML 
- * Vue.js (Javascript Framework)
- * Nuxt.js (Vue Framework) 
- * Neo4j (Graph Database) 
+ * HTML 5
+ * Javascript
+ * Video/audio rendering
+ * Internet Connectivity 
 
 **Who can access this platform?**
 
@@ -67,7 +67,9 @@ The user just needs to have access to internet connectivity by Local Area Networ
 
 **Minimum Requirments to access:**
 
-Internet Connectivity - Having a medium to strong Wi-Fi internet connection Browser Compatibility - minimum versions for browsers are listed below
+Device - Any physical device having web browsing capabilities
+
+Browser Compatibility - minimum versions for browsers are listed below
 
  * Internet Explorer - 11
  * Edge - 81
@@ -109,15 +111,30 @@ https://aws.amazon.com/security/
 
 Since our solution is Cloud Based (AWS) - we benefit from AWS data centers and a network architected to protect your information, identities, applications, and devices. With AWS, we can improve the ability to meet core security and compliance requirements, such as data locality, protection, and confidentiality with our comprehensive services and features.
 
-**Privacy:**
+**Privacy Policies and Processes:**
 
 Rumie-Learn collects learner data strictly for the recognition and storing of Byte favourites and history, to improve the learner experience.
 
-We assign a unique token to every learner and cookie the learner with that token. That token is representative of the learner in all of our data, and it is not shared externally beyond strictly to fulfill the aggregation and insights requirements of our systems.
+We assign a unique randomized token to every learner and cookie the learner with that token. That token is representative of the learner in all of our data, and it is not shared externally beyond strictly to fulfill the aggregation and insights requirements of our systems.
 
-Our learner data is processed and aggregated strictly for the improvement of the learner experience, both individually and in aggregate. We do not share this data with any 3rd parties, and we do not identify learners outside of the scope of their individual experience. 
+The Learner can clear ALL preference data and cookies stored on their browser by using the Settings >> Clear Data functionality.
 
-**Policies:**
+Our learner data is processed and aggregated strictly for the improvement of the learner experience, both individually and in aggregate. We do not share this data directly with any 3rd parties, and we do not identify learners outside of the scope of their individual experience in any way.
+
+We share effectiveness and engagement metrics that are aggregated with our Content Partners organizations, for the purposes of improving the content and assessing the effectiveness of the learning outputs associated with these Bytes. It is not possible to uniquely identify the individual Learners associated with these data points. 
+
+**GDPR Compliance:**
+
+We are committed to the principles of GDPR compliance and particularly to the concepts of Privacy and transparency with regard to the use of data. 
+
+In addition we aim to ensure:
+
+ * That any processing is lawful, fair and necessary for a specific purpose
+ * The Data is kept safely and securely
+ * We do not collect personal data beyond what is required for the functionality of our Products
+
+
+**Learner Policies for accessing Rumie-Learn:**
 
 **Cookie Policy:**
 
