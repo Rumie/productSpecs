@@ -95,7 +95,7 @@ https://stackshare.io/the-rumie-initiative/learn
 
 **Integration Points:**
 
-URL:https://learn.rumie.org
+URL: https://learn.rumie.org
 
 **Content Approval Process:**
 
