@@ -22,7 +22,7 @@ Rumie platform software includes three products that are linked together to serv
 Rumie Learn is a Learning platform that is free to access, and offers interactive 
 microlearning experiences named Bytes for Learners through Local Area Network. The platform 
 is a Web based that serves access to Rumie Bytes. It provides the learners with curated Bite-Sized Learning which 
-is normally focused just on one key objective. </br> 
+is focused just on one key objective. </br> 
 
 The Bytes are offered and distributed among different categories. 
 These Bite-Sized modules include different media option such as Images, Youtube Videos, gifs to make the 
