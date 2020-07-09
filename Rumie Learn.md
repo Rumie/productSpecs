@@ -33,7 +33,7 @@ Bytes are offered and distributed among different 21st Century Skills categories
 
   * Numerous Categories/ Topics/ Themes
   * Trending Bytes: Providing the most demanded learning content
-  * Recommended Bytes: Uniquely suggested bytes as per previous interaction on the platform 
+  * Recommended Bytes: Uniquely suggested content as per previous interaction on the platform 
   * View History: Bytes visited so far
   * Favourites: Mark Favourite Bytes
   * Accessing Bytes: One or multiple Bytes of different Categories/ Topics/ Themes
