@@ -80,7 +80,7 @@ Browser Compatibility - minimum versions for browsers are listed below
 
 **Serving Infrastructure:**
 
-Amazon Web Services Availability Zone:us-east-1
+Amazon Web Services Availability Zone: us-east-1
 
 **Services Used:**
 
