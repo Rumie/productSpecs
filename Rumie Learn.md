@@ -6,33 +6,23 @@ Product Documentation : Product Specification Sheet - Rumie Learn
 
 Created by Manav Chugh on Jul 08, 2020
 
-This document will provide you with the detail on what Rumie Learn is, and specifically what function will it perform. This specification sheet will also outline numerous sections that detail the individual components about the Rumie Learn Platform.
+The Rumie Platform Software reflects Rumie’s newest solution for partners, expanding beyond traditional Rumie tablets to more versatile technology options that bring improved functionality to multiple devices, computers, laptops, desktops, tablets, and smartphones.
 
-**Introduction**
+This solution will continue to bridge the learning and skills gap for our partners’ customers around the world as well as facilitate greater overall accessibility of the Rumie platform. It lowers the cost-per-learner model to a fraction of the cost of previous solutions, reduces negative environmental impacts, removes all shipping; customs issues, and enhances our product technical features with many added new functionalities.
 
-The Rumie Platform Software reflects Rumie’s newest solution for partners, expanding beyond traditional Rumie tablets to more versatile technology options that bring improved functionality to multiple devices, computers, laptops, desktops, tablets, and smartphones. </br> 
-
-This solution will continue to bridge the learning and skills gap for our partners’ customers around the world as well as facilitate greater overall accessibility of the Rumie platform. It lowers the cost-per-learner model to a fraction of the cost of previous solutions, reduces negative environmental impacts, removes all shipping; customs issues, and enhances our product technical features with many added new functionalities. </br> 
-
-Rumie platform software includes three products that are linked together to serve one main goal: to empower Rumie partners in bringing the best e-learning experience to their learners. One of which is Rumie Learn. 
+Rumie platform software includes three products that are linked together to serve one main goal: to empower Rumie partners in bringing the best e-learning experience to their learners. One of which is Rumie Learn.
 
 
 **Product Summary**
 
-Rumie Learn is a Learning platform that is free to access, and offers interactive 
-microlearning experiences named Bytes for Learners through Local Area Network. The platform 
-is a Web based that serves access to Rumie Bytes. It provides the learners with curated Bite-Sized Learning which 
-is focused just on one key objective. </br> 
+Rumie Learn is a Learning platform that is free to access, and offers interactive microlearning experiences named Bytes for Learners through Local Area Network. The platform is a Web based site that serves access to Rumie Bytes. It provides the learners with curated Bite-Sized Learning which is focused just on one key objective.</br>
 
-The Bytes are offered and distributed among different categories. 
-These Bite-Sized modules include different media option such as Images, Youtube Videos, gifs to make the 
-learning experience for the User more exiting and provide high-impact, organization/topic-specific visuals to reinforce ideas. 
-Every Byte that is created to serve one learning outcome. Every single Byte can include 
-one or multiple Quizes to make the user experience more interactive. The User's can also provide and submit feedback for the Byte they accessed. 
+The Bytes are offered and distributed among different categories. These Bite-Sized modules include different media options such as Images, Youtube Videos, gifs to make the learning experience for the User more exciting and provide high-impact, organization/topic-specific visuals to reinforce ideas. Every Byte that is created to serve one learning outcome. Every single Byte can include one or multiple Quizzes to make the user experience more interactive. The User can also provide and submit feedback for the Byte they accessed.
 
-**Bisuness Case**
 
-eLearning has been around since the 1990s when the internet started becoming popular. Over the years, schools, trainers, and businesses realized the benefits of leveraging technology for training and education, allowing flexibility and reduced costs. As technology continued to evolve at exponential rates, learners, both young and old, became overwhelmed with information overload, the focus was no longer on the transfer of knowledge but turned to how to better achieve learning objectives. The use of animations, multimedia, on-screen interactions started to become more important, and also, learning concepts such as using a modular approach. </br> 
+**Business Case**
+
+eLearning has been around since the 1990s when the internet started becoming popular. Over the years, schools, trainers, and businesses realized the benefits of leveraging technology for training and education, allowing flexibility and reduced costs. As technology continued to evolve at exponential rates, learners, both young and old, became overwhelmed with information overload, the focus was no longer on the transfer of knowledge but turned to how to better achieve learning objectives. The use of animations, multimedia, on-screen interactions started to become more important, and also, learning concepts such as using a modular approach.</br>
 
 One of the main reasons why bite-sized learning is becoming increasingly important is due to the changing ways people learn and the amount of information they have access to. Attention spans are getting shorter and learners expect more from training. Learners no longer want to just gain knowledge, they want to be engaged, entertained, and able to apply what they learn immediately. They want to see improvements and be able to quantify their progress. They want to do so anytime, anywhere, on any device. They want to be in control of their learning journeys and yet be guided in the right direction.
 
@@ -44,24 +34,26 @@ One of the main reasons why bite-sized learning is becoming increasingly importa
 --> Learning Framework </br>
 --> Captive Portal </br>
 
+
 **Product Features -  Hard Attributes**
 
 --> Numerous Categories/ Topics/ Themes </br>
 --> Trending Bytes --> Providing the most demanded learning content </br>
---> Recommended Bytes </br> 
---> View Histrory --> Bytes visited so far </br> 
---> Favourites --> Mark Favourite Bytes </br> 
+--> Recommended Bytes </br>
+--> View History --> Bytes visited so far </br>
+--> Favourites --> Mark Favourite Bytes </br>
 --> Access --> One or multiple Bytes of different Categories/ Topics/ Themes </br>
---> Interactive Quizes and media options available for every single Byte being served </br> 
---> Provide Feedback for a recent Byte User Accessed </br> 
---> Set your own Preferences for Themes/ Data/ Accesibility Feature </br>
+--> Interactive Quizzes and media options available for every single Byte being served </br>
+--> Provide Feedback for a recent Byte User Accessed </br>
+--> Set your own Preferences for Themes/ Data/ Accessibility Feature </br>
+
 
 **Outcomes**
 
---> Acquisition of Knowlegde </br>
---> Upskilling </br> 
---> Awareness of Categories </br> 
---> Better engagement </br> 
+--> Acquisition of Knowledge </br>
+--> Upskilling </br>
+--> Awareness of Categories </br>
+--> Better engagement </br>
 
 
 **Specs**
