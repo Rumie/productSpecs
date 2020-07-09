@@ -108,7 +108,7 @@ MySQL Databse
 Can include image(png, video average, youtube embed, audio embed) </br>
 Average size of Byte (mb) --> 18.3 Mb (ranges from 3 Mb to 45 Mb) </br>
 Average size of text content --> 13.4 Mb </br>
-Average size of Media content --> 10 Mb </br>
+Average size of Media content --> 30 Mb </br>
 Average Byte loading time --> 2.29 s </br>
 Estimated minimal bandwidth needed is --> ~7.9 Mb/s </br>
 
