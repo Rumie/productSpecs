@@ -1,71 +1,60 @@
 
-1.  [Product Documentation](index.html)
-
-Product Documentation: Product Specification Sheet - Rumie-Learn
+Product Specification Sheet: Rumie-Learn
 =================================================================
 
 Created by Manav Chugh on Jul 08, 2020
 
-This document will provide you with details on Rumie-Learn [https://learn.rumie.org], and processes, specifications and parameters associated with the operation and usage of this platform. 
+This document will provide you with details on *Rumie-Learn* [https://learn.rumie.org], and processes, specifications and parameters associated with the operation and usage of this platform. 
 
 **Introduction:** 
 
-The Rumie Platform reflects Rumie’s newest solution for partners, expanding beyond traditional Rumie learning solutions to more versatile technology options that bring improved functionality to multiple devices such as computers, laptops, desktops, tablets, and smartphones.
+The *Rumie-Learn* platform reflects Rumie’s newest solution for partners to engage learners directly, expanding beyond the traditional Rumie learning solutions (such as the Rumie App and the Rumie Web App), to a more verstaile learning platform that bring improved functionality and interactivity for the future of learning.
 
 This solution will continue to bridge the learning and skills gap for learners around the world. 
 
-Rumie platform software includes three products: Build, Connect and Learn, that form an ecosystem which serves one main goal: to empower the best e-learning experience to learners.
+**Scope:**
+Rumie's newest technology offering includes three products: *Build*, *Connect* and *Learn*, that form an ecosystem to author content, customize the delivery of that content and engage the learner directly with the content. The ecosystem serves one main goal: to empower the best, free e-learning experience for any learner, regardless of their economic conditions or background.
 
-**Product Summary:**
 
-Rumie-Learn is a learning platform that is free to access, and offers interactive microlearning experiences named Bytes that Learners can access through any internet connection, with any device that has web browsing capabilities. It provides the learners with dynamically curated Byte-based learning, which is focused on learning experiences of 10 minutes or less, chained together into individual learning paths.
+**Summary:**
 
-Bytes are offered and distributed among different 21st Century Skills categories. These modules include embedded media options such as images, icons, Youtube videos, and audio to make the learning experience for learners more exciting and provide high-impact, organization/topic-specific visuals to reinforce ideas. Every Byte serves to provide the learner a learning outcome from every experience. Every Byte includes one or more multiple choice quizzes to assess and measure learning. The learners can also provide and submit direct feedback for the Byte they experienced.
+*Rumie-Learn* is an e-learning platform that is free to access, and offers interactive microlearning experiences, known as Bytes, that Learners can access through any internet connection, with any device that has web browsing capabilities. *Learn* provides the learners with dynamically curated Byte-based learning, which is focused on learning experiences of 10 minutes or less, chained together into individual learning paths.
 
-**Product Features - Soft Attributes:**
+Bytes are offered and distributed amongst a range of 21st Century Skills categories. These microlearning modules include embedded media options such as images, icons, Youtube videos, and audio to make the learning experience for learners more exciting and provide high-impact interactivity, and topic-specific visuals to reinforce concepts. Every Byte serves to provide the learner a meaningful learning experience in less than 10 minutes. Every Byte includes one or more multiple choice quizzes to assess and measure learning. The learners can also provide and submit direct feedback for the Byte after they have completed the experience.
 
-  * Content Repository
-  * Microlearning Template
-  * Learning Framework
-  * Captive Portal
   
-**Product Features -  Hard Attributes:**
+**Hard Attributes:**
 
-  * Numerous Categories/ Topics/ Themes
-  * Trending Bytes: Providing the most demanded learning content
-  * Recommended Bytes: Uniquely suggested content as per previous interaction on the platform 
-  * View History: Bytes visited by Learner
+  * Individual Bytes across unique Categories / Topics / Themes
+  * Trending Bytes: Providing the most demanded learning Bytes
+  * Recommended Bytes: Uniquely suggested Bytes
+  * Categories Bytes: Bytes that fall within specific categories, topics and themes   
+  * View History: Bytes recently visited by Learner
   * Favourites: Bytes marked as favourite by Learner
-  * Accessing Bytes: One or multiple Bytes of different Categories / Topics / Themes
   * Interactive Quizzes and media options available for every single Byte being served
-  * Provide Feedback for a recent Byte User Accessed
-  * Set your own Preferences for Themes/ Data/ Accessibility Feature
+  * Byte Feedback: ability to submit feedback about a recently accessed Byte
+  * WCAG 2.1 AA Compliant with UserWay [https://userway.org] 
+  * Settings: adjust the Colour Themes / Clear Data / control Accessibility Feature
 
-**Outcomes:**
 
- * Acquisition of Knowledge
- * Upskilling
- * Awareness of Categories
- * Content theme engagement
-
-**Specs:**
+**Application Specs:**
 
 Rumie-learn is a Web Application serving microlearning experiences named bytes. It can be accessed by users through any device that has browsing capabilities and with an active internet connection. 
 
 Learner interacts with:
-
  * HTML 5
  * Javascript
  * Video/audio/image rendering
  * Network connectivity to Rumie systems
 
+ 
 **Who can access this platform?**
 
 Anyone around the globe can access Rumie-Learn from this URL https://learn.rumie.org
 
 The user(learner) just needs to have access to internet connectivity by Local Area Network or Wireless Network, from any device that has web browsing capabilities.
 
-**Minimum Requirments to access:**
+**Minimum Connectivity Requirements:**
 
 Device - Any digital device that has web browsing capabilities
 
@@ -78,10 +67,22 @@ Browser Compatibility - minimum versions for browsers are listed below:
  * Opera (68)
  * Chrome (81)
 
-**Serving Infrastructure:**
-
-Amazon Web Services Availability Zone: 
-us-east-1
+**Accessibility Features:**
+ * Keyboard Navigation
+ * Screen Reader
+ * Increase Text Size
+ * Stop Animations
+ * Tooltips
+ * Convert to Accessible Fonts
+ * Highlight Links
+ * Large Cursor
+ * Reading Guide
+ * Invert Colors
+ * Text Spacing
+ * Color Desaturation
+ * Reveal Page Structure
+ * Reset All Configurations
+ 
 
 **Services Used:**
 
@@ -89,16 +90,16 @@ https://stackshare.io/the-rumie-initiative/learn
 
 **Byte Specs:**
 
- * Can include images (png, jpg, gif), video, Y outube embed, audio embed
+ * Can include images (png, jpg, gif), video, Youtube embed, audio embed
  * Average size of Byte (mb): 18.3 Mb (ranges from 3 Mb to 45 Mb)
  * Average size of text content: 13.4 Mb
  * Average size of Media content: 30 Mb
  * Average Byte loading time: 2.29 s
  * Estimated minimal bandwidth needed is: ~0.5 Mb/s
 
-**Integration Points:**
+**Uniform Resource Locator / Web Address:**
 
-URL: https://learn.rumie.org
+https://learn.rumie.org
 
 **Content Approval Process:**
 
