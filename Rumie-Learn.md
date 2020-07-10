@@ -6,11 +6,11 @@ Product Documentation: Product Specification Sheet - Rumie-Learn
 
 Created by Manav Chugh on Jul 08, 2020
 
-This document will provide you with details on Rumie-Learn [https://learn.rumie.org], and processes, specifications and parameters associated with the operation of the platform. 
+This document will provide you with details on Rumie-Learn [https://learn.rumie.org], and processes, specifications and parameters associated with the operation and usage of this platform. 
 
 **Introduction:** 
 
-The Rumie Platform reflects Rumie’s newest solution for partners, expanding beyond traditional Rumie tablets to more versatile technology options that bring improved functionality to multiple devices such as computers, laptops, desktops, tablets, and smartphones.
+The Rumie Platform reflects Rumie’s newest solution for partners, expanding beyond traditional Rumie learning solutions to more versatile technology options that bring improved functionality to multiple devices such as computers, laptops, desktops, tablets, and smartphones.
 
 This solution will continue to bridge the learning and skills gap for learners around the world. 
 
@@ -18,7 +18,7 @@ Rumie platform software includes three products: Build, Connect and Learn, that 
 
 **Product Summary:**
 
-Rumie-Learn is a learning platform that is free to access, and offers interactive microlearning experiences named Bytes that Learners can access through an internet connection, with any device that has web browsing capabilities. It provides the learners with dynamically curated Byte learning, which is focused on learning experiences of 10 minutes or less, chained together into individual learning paths.
+Rumie-Learn is a learning platform that is free to access, and offers interactive microlearning experiences named Bytes that Learners can access through any internet connection, with any device that has web browsing capabilities. It provides the learners with dynamically curated Byte-based learning, which is focused on learning experiences of 10 minutes or less, chained together into individual learning paths.
 
 Bytes are offered and distributed among different 21st Century Skills categories. These modules include embedded media options such as images, icons, Youtube videos, and audio to make the learning experience for learners more exciting and provide high-impact, organization/topic-specific visuals to reinforce ideas. Every Byte serves to provide the learner a learning outcome from every experience. Every Byte includes one or more multiple choice quizzes to assess and measure learning. The learners can also provide and submit direct feedback for the Byte they experienced.
 
@@ -34,9 +34,9 @@ Bytes are offered and distributed among different 21st Century Skills categories
   * Numerous Categories/ Topics/ Themes
   * Trending Bytes: Providing the most demanded learning content
   * Recommended Bytes: Uniquely suggested content as per previous interaction on the platform 
-  * View History: Bytes visited so far
-  * Favourites: Mark Favourite Bytes
-  * Accessing Bytes: One or multiple Bytes of different Categories/ Topics/ Themes
+  * View History: Bytes visited by Learner
+  * Favourites: Bytes marked as favourite by Learner
+  * Accessing Bytes: One or multiple Bytes of different Categories / Topics / Themes
   * Interactive Quizzes and media options available for every single Byte being served
   * Provide Feedback for a recent Byte User Accessed
   * Set your own Preferences for Themes/ Data/ Accessibility Feature
@@ -46,41 +46,42 @@ Bytes are offered and distributed among different 21st Century Skills categories
  * Acquisition of Knowledge
  * Upskilling
  * Awareness of Categories
- * Better engagement
+ * Content theme engagement
 
 **Specs:**
 
-Rumie-learn  is a Web Application serving microlearning experiences named bytes. It can be accessed by users through any device that has browsing capabilities and with an active internet connection. 
+Rumie-learn is a Web Application serving microlearning experiences named bytes. It can be accessed by users through any device that has browsing capabilities and with an active internet connection. 
 
 Learner interacts with:
 
  * HTML 5
  * Javascript
- * Video/audio rendering
- * Internet connectivity 
+ * Video/audio/image rendering
+ * Network connectivity to Rumie systems
 
 **Who can access this platform?**
 
 Anyone around the globe can access Rumie-Learn from this URL https://learn.rumie.org
 
-The user just needs to have access to internet connectivity by Local Area Network or Wireless Network, from any device that has web browsing capabilities.
+The user(learner) just needs to have access to internet connectivity by Local Area Network or Wireless Network, from any device that has web browsing capabilities.
 
 **Minimum Requirments to access:**
 
-Device - Any physical device having web browsing capabilities
+Device - Any digital device that has web browsing capabilities
 
-Browser Compatibility - minimum versions for browsers are listed below
+Browser Compatibility - minimum versions for browsers are listed below:
 
- * Internet Explorer - 11
- * Edge - 81
- * Firefox - 76
- * Safari - 12, 13
- * Opera - 68
- * Chrome - 81
+ * Internet Explorer (11)
+ * Edge (81)
+ * Firefox (76)
+ * Safari (12, 13)
+ * Opera (68)
+ * Chrome (81)
 
 **Serving Infrastructure:**
 
-Amazon Web Services Availability Zone: us-east-1
+Amazon Web Services Availability Zone: 
+us-east-1
 
 **Services Used:**
 
@@ -88,12 +89,12 @@ https://stackshare.io/the-rumie-initiative/learn
 
 **Byte Specs:**
 
- * Can include image(png, jpg, gif), video average, youtube embed, audio embed
- * Average size of Byte (mb):18.3 Mb (ranges from 3 Mb to 45 Mb)
- * Average size of text content:13.4 Mb
- * Average size of Media content:30 Mb
- * Average Byte loading time:2.29 s
- * Estimated minimal bandwidth needed is:~0.5 Mb/s
+ * Can include images (png, jpg, gif), video, Y outube embed, audio embed
+ * Average size of Byte (mb): 18.3 Mb (ranges from 3 Mb to 45 Mb)
+ * Average size of text content: 13.4 Mb
+ * Average size of Media content: 30 Mb
+ * Average Byte loading time: 2.29 s
+ * Estimated minimal bandwidth needed is: ~0.5 Mb/s
 
 **Integration Points:**
 
@@ -101,7 +102,7 @@ URL: https://learn.rumie.org
 
 **Content Approval Process:**
 
-Rumie carefully reviews and moderates all content for learning suitability
+Rumie carefully reviews and moderates all content for learning suitability, and for formatting and quality of experience.
 
 ** We also do provide an optional curating Feature for Organizations to approve Bytes before they get to Rumie for approval
 
