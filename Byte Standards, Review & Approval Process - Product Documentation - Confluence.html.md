@@ -61,7 +61,7 @@ _For more substantial adjustments, reconnect with the author via ClickUp - push 
 **Knowledge Level Examples**
 
 
-| Level| Making Eggs | Entrepreneurship | Communication Essentials | Digital Citizenship |
+| Level  | Making Eggs | Entrepreneurship | Communication Essentials | Digital Citizenship |
 | ---- | ----------- | -----------------| -----------------------| ------------------------|
 | 1: Beginner | Safe aspects of cooking eggs (don't eat raw) | Define key business terms | Define 'sender,' 'message,' and 'receiver' | Recognize risks in a digital environment |
 | 2 |  |  |  |  |
@@ -80,7 +80,7 @@ _For more substantial adjustments, reconnect with the author via ClickUp - push 
 * UN SDGs
 
 
-* sdg1nopoverty         <               
+* sdg1nopoverty                                      
 * sdg2zerohunger
 * sdg3goodhealth
 * sdg4qualityeducation
@@ -103,17 +103,17 @@ _For more substantial adjustments, reconnect with the author via ClickUp - push 
 **Learning Quality Score**
 | Syntax | Description |
 | --- | ----------- |
-| 0 | info dump * Language is jargony/difficult * No examples * Images not reflective of content |
-| 5 | Comprehension * Language is reasonably simple * One practical example * Comprehension MCQ(s) Stock Photos w/ see-say alignment |
-| 10 | Applied * Language is simple/direct + action oriented * Multiple, accessible examples * Apply style MCQ(s) * Custom graphics w/ see-say alignment |
+| 0 | info dump <br> * Language is jargony/difficult <br> * No examples <br> * Images not reflective of content |
+| 5 | Comprehension <br> * Language is reasonably simple <br> * One practical example <br> * Comprehension MCQ(s) Stock Photos w/ see-say alignment |
+| 10 | Applied <br> * Language is simple/direct + action oriented <br> * Multiple, accessible examples * Apply style MCQ(s) <br> * Custom graphics w/ see-say alignment |
 
 **Engagement Score**
 
 | Syntax | Description |
 | --- | ----------- |
-| 0 |  * Images only * No takeaway, summary only |
-| 5 | * Video **or** MCQ * "Think about this" takeaway |
-| 10 | * Video **and** MCQ, **or** multiple MCQs * Actionable takeaway |
+| 0 |  * Images only <br> * No takeaway, summary only |
+| 5 | * Video **or** MCQ <br> * "Think about this" takeaway |
+| 10 | * Video **and** MCQ, **or** multiple MCQs <br> * Actionable takeaway |
 
 ## Re-Review Timeline
 
