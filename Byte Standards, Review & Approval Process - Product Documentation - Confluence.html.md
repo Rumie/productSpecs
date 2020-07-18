@@ -47,15 +47,15 @@ _For more substantial adjustments, reconnect with the author via ClickUp - push 
 
 | Level | Characteristics |
 | --- | ----------- |
-| 1: Beginner | Pure introduction to the topic → empower to 'recognize features'NO baseline knowledgeNeeds "recipes" → extremely direct and prescriptive [Rules determine actions]No ability to go 'offscript' or exercise discretionary judgement |
+| 1: Beginner | Pure introduction to the topic → empower to 'recognize features' <br> NO baseline knowledge <br> Needs "recipes" → extremely direct and prescriptive [Rules determine actions] <br> No ability to go 'offscript' or exercise discretionary judgement |
 | 2 |  |
-| 3: Advanced Beginner | Needs simple + controlled simulations → guidelines determine actionsUnderstands contexts |
+| 3: Advanced Beginner | Needs simple + controlled simulations → guidelines determine actions <br> Understands contexts |
 | 4 |  |
-| 5: Competent | Familiar with the most common terms and conceptsLittle/no direct practical experience → expose to a wider variety of scenarios/applicationProvides basis of recognition of similar situations in the future |
+| 5: Competent | Familiar with the most common terms and concepts <br> Little/no direct practical experience → expose to a wider variety of scenarios/application <br> Provides basis of recognition of similar situations in the future |
 | 6 |  |
-| 7: Proficient | Some practical experience to reflect onResponses become intuitive |
+| 7: Proficient | Some practical experience to reflect on <br> Responses become intuitive |
 | 8 |  |
-| 9: Advanced | Familiar with related termsHas practical experience with topic to reflect onTranscend reliance on rulesAnalytical skills to approach novel problemsIntuition for solutions to familiar problems |
+| 9: Advanced | Familiar with related terms <br> Has practical experience with topic to reflect on <br> Transcend reliance on rules <br> Analytical skills to approach novel problems <br> Intuition for solutions to familiar problems |
 | 10 |  |
 
 **Knowledge Level Examples**
@@ -101,7 +101,7 @@ _For more substantial adjustments, reconnect with the author via ClickUp - push 
 ## Scoring
 
 **Learning Quality Score**
-| Syntax | Description |
+|  |  |
 | --- | ----------- |
 | 0 | info dump <br> * Language is jargony/difficult <br> * No examples <br> * Images not reflective of content |
 | 5 | Comprehension <br> * Language is reasonably simple <br> * One practical example <br> * Comprehension MCQ(s) Stock Photos w/ see-say alignment |
@@ -109,7 +109,7 @@ _For more substantial adjustments, reconnect with the author via ClickUp - push 
 
 **Engagement Score**
 
-| Syntax | Description |
+| | |
 | --- | ----------- |
 | 0 |  * Images only <br> * No takeaway, summary only |
 | 5 | * Video **or** MCQ <br> * "Think about this" takeaway |
