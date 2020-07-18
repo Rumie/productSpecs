@@ -1,8 +1,8 @@
-## Product Documentation
 
-# Byte Standards, Review & Approval Process
+Product Specification Sheet: Byte Standards, Review & Approval Process
+=================================================================
 
-Created by [Manav Chugh]
+Created by Manav Chugh on Jul 18, 2020
 
 **Acknowledgement:**
 
