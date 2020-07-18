@@ -77,26 +77,27 @@ _For more substantial adjustments, reconnect with the author via ClickUp - push 
 ## Tagging
 
 * Geographic (ex. northamerica, afghanistan, etc.)
-* UN SDGs
+* UN SDGs 
 
 
-* sdg1nopoverty                                      
-* sdg2zerohunger
-* sdg3goodhealth
-* sdg4qualityeducation
-* sdg5genderequality
-* sdg6cleanwater
-* sdg7cleanenergy
-* sdg8decentwork
-* sdg9industry 
-* sdg10reducedinequality
-* sdg11sustainablecities
-* sdg12responsibleconsumption
-* sdg13climateaction
-* sdg14lifebelowwater
-* sdg15lifeonland
-* sdg16peaceandjustice
-* sdg17partnershp 
+  * sdg1nopoverty                                      
+  * sdg2zerohunger
+  * sdg3goodhealth
+  * sdg4qualityeducation
+  * sdg5genderequality
+  * sdg6cleanwater
+  * sdg7cleanenergy
+  * sdg8decentwork
+  * sdg9industry 
+
+  * sdg10reducedinequality
+  * sdg11sustainablecities
+  * sdg12responsibleconsumption
+  * sdg13climateaction
+  * sdg14lifebelowwater
+  * sdg15lifeonland
+  * sdg16peaceandjustice
+  * sdg17partnershp 
 
 ## Scoring
 
