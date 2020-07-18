@@ -106,6 +106,8 @@ https://learn.rumie.org
 
 Rumie carefully reviews and moderates all content for learning suitability, and for formatting and quality of experience.
 
+Refer to Rumie-Build for more information on Byte Standards, Review and Approval Process - https://github.com/Rumie/productSpecs/blob/master/Rumie-Build.md
+
 ** We also do provide an optional curating Feature for Organizations to approve Bytes before they get to Rumie for approval
 
 **Security & Certifications:**
