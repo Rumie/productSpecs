@@ -2,7 +2,7 @@
 Product Specification Sheet: Byte Standards, Review & Approval Process
 =================================================================
 
-Created by Manav Chugh on Jul 18, 2020
+Created by Manav Chugh on Jul 18, 2020 The Rumie Initiative
 
 **Acknowledgement:**
 
@@ -122,5 +122,4 @@ _For more substantial adjustments, reconnect with the author via ClickUp - push 
   - Shorter timeline for content that is topical or controversial (e.g., Coronavirus, race relations)
   - Longer timeline for content that is likely to remain evergreen (e.g., data 101 topics, basic finances)
 
-The Rumie Initiative
 
