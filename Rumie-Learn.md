@@ -2,7 +2,7 @@
 Product Specification Sheet: Rumie-Learn
 =================================================================
 
-Created by Manav Chugh on Jul 08, 2020
+Created by Manav Chugh on Jul 08, 2020 The Rumie Initiative
 
 This document will provide you with details on **Rumie-Learn** [https://learn.rumie.org], and processes, specifications and parameters associated with the operation and usage of this platform. 
 
