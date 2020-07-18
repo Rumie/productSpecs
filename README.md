@@ -2,7 +2,7 @@
 Public specifications for all Rumie products
 
 ## Rumie-Build
-https://github.com/Rumie/productSpecs/blob/master/Rumie-Build.md
+_Coming Soon_
 
 ## Rumie-Connect
 _Coming Soon_
