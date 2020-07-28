@@ -6,7 +6,7 @@ Public specifications for all Rumie products
 ### Specifications:
 https://github.com/Rumie/productSpecs/blob/master/Rumie-Build.md
 
-### Byte Standards and Review Process Explained
+### Byte Standards and Review Processes:
 https://github.com/Rumie/productSpecs/blob/master/Rumie-Build-Standards-and-Processes.md
 
 ## Rumie-Connect
