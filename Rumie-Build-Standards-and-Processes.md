@@ -10,39 +10,43 @@ Rumie is a learning technology nonprofit organization, located in Toronto, Canad
 
 ## Standards
 
-Rumie will not post author content that:
+Rumie will not post any content that:
 
-1. may create a risk of harm, loss, physical or mental injury, emotional distress, death, disability, disfigurement, or physical or mental illness to you, to any other person, or to any animal;
-2. may create a risk of any other loss or damage to any person or property;
-3. seeks to harm or exploit children by exposing them to inappropriate content, asking for personally identifiable details or otherwise;
-4. may constitute or contribute to a crime or tort;
-5. contains any information or content that we deem to be unlawful, harmful, abusive, racially or ethnically offensive, defamatory, infringing, invasive of personal privacy or publicity rights, harassing, humiliating to other people (publicly or otherwise), libellous, threatening, profane, obscene, or otherwise objectionable;
-6. contains any information or content that is illegal (including, without limitation, the disclosure of insider information under securities law or of another party's trade secrets);
-7. contains any information or content that you do not have a right to make available under any law or under contractual or fiduciary relationships; or
-8. contains any information or content that you know is not correct and current.
-9. may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission.
-10. may not violate others' intellectual property rights, including copyright and trademark.
+1. May create a risk of harm, loss, physical or mental injury, emotional distress, death, disability, disfigurement, or physical or mental illness to you, to any other person, or to any animal;
+2. May create a risk of any other loss or damage to any person or property;
+3. Seeks to harm or exploit children by exposing them to inappropriate content, asking for personally identifiable details or otherwise;
+4. May constitute or contribute to a crime or tort;
+5. Contains any information or content that we deem to be unlawful, harmful, abusive, racially or ethnically offensive, defamatory, infringing, invasive of personal privacy or publicity rights, harassing, humiliating to other people (publicly or otherwise), libellous, threatening, profane, obscene, or otherwise objectionable;
+6. Contains any information or content that is illegal (including, without limitation, the disclosure of insider information under securities law or of another party's trade secrets);
+7. Contains any information or content that you do not have a right to make available under any law or under contractual or fiduciary relationships; or
+8. Contains any information or content that you know is not correct and current.
+9. May publish or post other people's private information (such as home phone number and address) without their express authorization and permission.
+10. May violate others' intellectual property rights, including copyright and trademark.
 
-## Proofing
+## Approval Process
+
+### Proofing
 
 * Spelling/grammar review
 * Formatting adjustments
 * Facts are accompanied by an attribution
-* Ensure alignment with correct category/topic/theme
+* Ensure alignment with correct Category/Topic/Theme
 * Ensure timing selection is appropriate (3/6/9 min)
-* Ensure media used is appropriately aligned for the specific learning
+* Ensure media used is appropriately aligned to the specific learning objective
 
-_For more substantial adjustments, reconnect with the author via ClickUp - push status back to "Byte Revisions in Progress"_
+_For more substantial adjustments, reconnect with the author via ClickUp - change status back to "Byte Revisions in Progress"_
 
-## Approval Categorization
+### Approval Categorization
 
-* Assign Recommended Learner Knowledge Levels
-* Assign Tags
-* Assign Learning Quality Score
-* Assign Engagement Score
-* Assign Re-Review Timeline
+* Assign Recommended _Learner Knowledge Levels_
+* Assign _Tags_
+* Assign _Learning Quality Score_
+* Assign _Engagement Score_
+* Assign _Re-Review Timeline_
 
-## Recommended Learner Knowledge Levels
+## Categorizations Explained
+
+### Recommended Learner Knowledge Levels
 
 
 | Level | Characteristics |
@@ -74,7 +78,7 @@ _For more substantial adjustments, reconnect with the author via ClickUp - push 
 | 9: Advanced | Innovate scrambled egg recipe - add your own twist | Calculate ROI | Self assess the effectiveness of your communication | Track how others depict me online |
 | 10 |  |  |  |  |
 
-## Tagging
+### Tags
 
 * Geographic (ex. northamerica, afghanistan, etc.)
 * UN SDGs 
@@ -99,7 +103,7 @@ _For more substantial adjustments, reconnect with the author via ClickUp - push 
   * sdg16peaceandjustice
   * sdg17partnershp 
 
-## Scoring
+### Scores
 
 **Learning Quality Score**
 |  |  |
@@ -116,7 +120,7 @@ _For more substantial adjustments, reconnect with the author via ClickUp - push 
 | 5 | * Video **or** MCQ <br> * "Think about this" takeaway |
 | 10 | * Video **and** MCQ, **or** multiple MCQs <br> * Actionable takeaway |
 
-## Re-Review Timeline
+### Re-Review Timeline
 
 * Default to revisit content in 18 months
   - Shorter timeline for content that is topical or controversial (e.g., Coronavirus, race relations)
