@@ -38,7 +38,7 @@ _For more substantial adjustments, reconnect with the author via ClickUp - chang
 
 ### Approval Categorization
 
-* Assign Recommended _Learner Knowledge Levels_
+* Assign _Recommended Learner Knowledge Levels_
 * Assign _Tags_
 * Assign _Learning Quality Score_
 * Assign _Engagement Score_
