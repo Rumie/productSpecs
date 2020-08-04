@@ -8,7 +8,7 @@ This document will provide you with details on **Rumie-Learn** [https://learn.ru
 
 **Introduction:** 
 
-The **Rumie-Learn** platform reflects Rumie’s newest solution for partners to engage learners directly, expanding beyond the traditional Rumie learning solutions (such as the Rumie App and the Rumie Web App), to a more verstaile learning platform that bring improved functionality and interactivity for the future of learning.
+The **Rumie-Learn** platform reflects Rumie’s newest solution for partners to engage learners directly, expanding beyond the traditional Rumie learning solutions (such as the Rumie App and the Rumie Web App), to a more versatile learning platform that bring improved functionality and interactivity for the future of learning.
 
 This solution will continue to bridge the learning and skills gap for learners around the world. 
 
