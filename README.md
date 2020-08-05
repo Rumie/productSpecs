@@ -10,7 +10,9 @@ https://github.com/Rumie/productSpecs/blob/master/Rumie-Build.md
 https://github.com/Rumie/productSpecs/blob/master/Rumie-Build-Standards-and-Processes.md
 
 ## Rumie-Connect
-_Coming Soon_
+
+### Specifications:
+
 
 ## Rumie-Learn
 
