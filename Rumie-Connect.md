@@ -1,4 +1,4 @@
-Product Specification Sheet: Rumie-Learn
+Product Specification Sheet: Rumie-Connect
 =================================================================
 
 Created by Manav Chugh on Aug 05, 2020 The Rumie Initiative
