@@ -32,7 +32,8 @@ The application provides the stakeholders with the ability to gain awareness of 
 **Product Features**:
 
 * Add Project: Add a new Rumie-Learn Project for your own Organization
-  - Project Language: Language used in the Rumie-Learn app, and also the language used in the Bytes. The English language is the default selection. Branding: The Rumie Learn Project generated will include branding either from your Organization or Rumie
+  - Project Language: Language used in the Rumie-Learn app, and also the language used in the Bytes. The English language is the default selection. 
+  - Branding: The Rumie Learn Project generated will include branding either from your Organization or Rumie
 * Configure categories for Bytes: All Rumie Bytes are classified under a specific Category / Topic / Theme. As a user of Rumie-Connect, you can select the distribution priority for all categories/topics/themes with a selection within this scale: None / Less/ Normal / More / Featured. This will determine the priority of which Bytesththat will be shown within your project.
 * Generate a URL for the custom Rumie Learn Project: Generates a custom Project Learn URL which you can share with the target group and also copy it to clipboard.
 
