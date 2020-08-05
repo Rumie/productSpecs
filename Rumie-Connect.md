@@ -1,9 +1,7 @@
 Product Specification Sheet: Rumie-Learn
 =================================================================
 
-Created by Manav Chugh on Jul 23, 2020 The Rumie Initiative
-
-Created by Manav Chugh on Aug 05, 2020
+Created by Manav Chugh on Aug 05, 2020 The Rumie Initiative
 
 This document will provide you with details on the Rumie-Connect, specifications and parameters associated with the operation of the platform.
 
