@@ -12,7 +12,7 @@ https://github.com/Rumie/productSpecs/blob/master/Rumie-Build-Standards-and-Proc
 ## Rumie-Connect
 
 ### Specifications:
-
+https://github.com/Rumie/productSpecs/blob/master/Rumie-Connect.md
 
 ## Rumie-Learn
 
