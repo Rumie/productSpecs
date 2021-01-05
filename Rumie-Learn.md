@@ -92,9 +92,9 @@ https://stackshare.io/the-rumie-initiative/learn
 **Byte Specs:**
 
  * Can include images (png, jpg, gif), video, Youtube embed, audio embed
- * Average size of Byte (mb): 18.3 Mb (ranges from 3 Mb to 45 Mb)
- * Average size of text content: ~ 3 Mb
- * Average size of Media content: 30 Mb
+ * Average size of Byte (mb): 0.3 Mb (ranges from 0.2 Mb to 0.4 Mb)
+ * Average size of text content: ~3.4 Kb
+ * Average size of Media content: 0.15 Mb
  * Average Byte loading time: 2.29 s
  * Estimated minimal bandwidth needed is: ~0.5 Mb/s
 
