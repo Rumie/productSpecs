@@ -2,11 +2,11 @@
 Product Specification Sheet: Byte Standards, Review & Approval Process
 =================================================================
 
-Created by Manav Chugh on Jul 18, 2020 The Rumie Initiative
+Created by Manav Chugh, Sam Z. and Bogdan A., last updated on February 14, 2022
 
 **Acknowledgement:**
 
-Rumie is a learning technology nonprofit organization, located in Toronto, Canada, that reduces barriers to learning by creating free micro-learning courses, Bytes<sup>tm</sup>. Rumie provides the tools and a platform for volunteers to build Bytes covering a broad range of topics, based on their skills and expertise. Our aim is to empower communities globally, so inevitably, biases are formed due to differences in culture, location and expertise. Being mindful that the content and resources made available by Rumie is the collective work of our volunteers, partners and the team, we try our best to guide contributions that are culturally sensitive and aware. As a small organization, we provide the tools and technology for learners and trust that individuals will self-curate and determine what the most relevant, no-cost content is for them.
+Rumie is a technology company but also a charity, on a mission to create opportunities for a better quality of life through learning. The Rumie Platform reflects Rumie's unique technology solutions to bridge the learning and skills gap for learners around the world.  Rumie provides the tools and a platform for volunteers to build Bytes covering a broad range of topics, based on their skills and expertise. Our aim is to empower communities globally, so inevitably, biases are formed due to differences in culture, location and expertise. Being mindful that the content and resources made available by Rumie is the collective work of our volunteers, partners and the team, we try our best to guide contributions that are culturally sensitive and aware. As a small organization, we provide the tools and technology for learners and trust that individuals will self-curate and determine what the most relevant, no-cost content is for them.
 
 ## Standards
 
@@ -81,7 +81,7 @@ _For more substantial adjustments, reconnect with the author via ClickUp - chang
 ### Tags
 
 * Geographic (ex. northamerica, afghanistan, etc.)
-* UN SDGs 
+* UN SDGs
 
 
   * sdg1nopoverty                                      
@@ -92,7 +92,7 @@ _For more substantial adjustments, reconnect with the author via ClickUp - chang
   * sdg6cleanwater
   * sdg7cleanenergy
   * sdg8decentwork
-  * sdg9industry 
+  * sdg9industry
 
   * sdg10reducedinequality
   * sdg11sustainablecities
@@ -101,7 +101,7 @@ _For more substantial adjustments, reconnect with the author via ClickUp - chang
   * sdg14lifebelowwater
   * sdg15lifeonland
   * sdg16peaceandjustice
-  * sdg17partnershp 
+  * sdg17partnershp
 
 ### Scores
 
@@ -125,5 +125,3 @@ _For more substantial adjustments, reconnect with the author via ClickUp - chang
 * Default to revisit content in 18 months
   - Shorter timeline for content that is topical or controversial (e.g., Coronavirus, race relations)
   - Longer timeline for content that is likely to remain evergreen (e.g., data 101 topics, basic finances)
-
-

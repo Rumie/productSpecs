@@ -1,25 +1,22 @@
 Product Specification Sheet: Rumie-Connect
 =================================================================
 
-Created by Manav Chugh on Aug 05, 2020 The Rumie Initiative
+Created by Manav Chugh and Bogdan A., last updated on February 14, 2022
 
-This document will provide you with details on the Rumie-Connect, specifications and parameters associated with the operation of the platform.
+This document will provide you with details on **Rumie-Connect**, and specifications and parameters associated with the operation of the application.
 
-**Introduction**:
+**Introduction:**
+Rumie is a technology company but also a charity, on a mission to create opportunities for a better quality of life through learning. The Rumie Platform reflects Rumie's unique technology solutions to bridge the learning and skills gap for learners around the world. 
 
-The Rumie Platform reflects Rumie's newest solution for partners, expanding beyond traditional Rumie tablets and learning libraries to more versatile technology options that bring improved functionality to multiple devices, computers, laptops, desktops, tablets, and smartphones.
-
-This solution will continue to bridge the learning and skills gap for learners around the world.
-
-Rumie platform software includes three products: **Build**, **Connect** and **Learn**, that form an ecosystem that serves one main goal: to empower the best and most timely elearning experience for learners.
+**Scope:**
+The Rumie platform is a multifaceted enterprise level technology platform that forms the essential digital toolkit to author, curate and distribute Rumie microlearning courses known as “Bytes”. The platform is made up of three distinct but connected cloud-based web applications named **Rumie-Build**, **Rumie-Connect** and **Rumie-Learn**.
 
 **Product Summary**
 
-Rumie-Connect is a web, cloud application that offers the ability to create unique projects that allows the distribution of Rumie Bytes and the Rumie-Learn platform to custom audiences, based on the desired customization criteria. It will allow stakeholders to create and configure customized Rumie-Learn projects, influence the category areas of the Bytes that will be delivered for these specific projects to define which learners these projects will be delivered to, and ultimately deploy the projects by sharing the generated Rumie-Learn project URL, directly with the learners.
+Rumie-Connect is a web based cloud application that offers the ability to create unique Rumie-Learn experiences aligned to the needs of a specific audience group, and to publish these experiences associated with a unique Rumie-Learn URL. It allows the distribution of Bytes and the Rumie-Learn library to these custom audiences, with curation capabilities based on specific learning needs, and the partitioning of analytics and engagement data associated to specific audience segments.
 
-This will help in targeting a specific learner group/audience and provide them with curated and specific microlearning courses (Bytes) to interact and access via Rumie-Learn.
+The application provides stakeholders with the ability to navigate the different categories/topics/themes of available Bytes, and to influence the Byte categories being shown to learners in their specific experience. It also allows the stakeholder to access a full analytics dashboard on the sources and number, as well as full engagement metrics on the learners that have accessed their experience.
 
-The application provides the stakeholders with the ability to gain awareness of the different categories/topics/ themes of Bytes, that are available, and so that they can influence the Bytes being delivered via Rumie-Learn and populate the platform with the categories that will provide the most value to the learner audience for whom they have created the project for.
 
 **More Info on Bytes**:
 
@@ -32,7 +29,7 @@ The application provides the stakeholders with the ability to gain awareness of 
 **Product Features**:
 
 * Add Project: Add a new Rumie-Learn Project for your own Organization
-  - Project Language: Language used in the Rumie-Learn app, and also the language used in the Bytes. The English language is the default selection. 
+  - Project Language: Language used in the Rumie-Learn app, and also the language used in the Bytes. The English language is the default selection.
   - Branding: The Rumie Learn Project generated will include branding either from your Organization or Rumie
 * Configure categories for Bytes: All Rumie Bytes are classified under a specific Category / Topic / Theme. As a user of Rumie-Connect, you can select the distribution priority for all categories/topics/themes with a selection within this scale: None / Less/ Normal / More / Featured. This will determine the priority of which Bytesththat will be shown within your project.
 * Generate a URL for the custom Rumie Learn Project: Generates a custom Project Learn URL which you can share with the target group and also copy it to clipboard.
